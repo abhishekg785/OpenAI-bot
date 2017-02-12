@@ -1,0 +1,7 @@
+Reinforcement learning using openAI
+==================================
+
+A simple bot to play the game CoasterRacer-v0 ( flashgames.CoasterRacer-v0 ) that decides whether to turn the cart of not on the basis of the reward 
+in the game. The bot gets better and better with time using openAI.
+
+
